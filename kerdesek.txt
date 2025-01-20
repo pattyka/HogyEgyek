@@ -1,0 +1,13 @@
+Mikor szoktál felkelni hétvégente? ; Általában koránkelő vagyok, legkésőbb 7-kor már ébren vagyok. ; 1 ; Korán kelni? Soha! Ha lehet, akkor délnél előbb fel sem kelek. ; 2 ; Rosszul alszom, ezért mindig addig alszom, amíg csak lehet. ; 3
+Szoktál esténként nassolni? ; Egy jó film vagy sorozat, egy pizza, chips vagy pattogatott kukorica… ez az ideális esti program. ; 3 ; Igen, de ha lehet, akkor aszalt gyümölcsöt vagy olajos magvakat. ; 2 ; Este sosem. Vigyázok az alakomra! ; 1
+Mennyit sportolsz? ; A sport az életem. Minden nap van valami: edzés, futás, aerobic… ; 1 ; Heti 3 alkalommal biztos. Szeretek mozogni. ; 2 ; Biztos, hogy nem. Lustaság fél egészség! ; 3
+Mi a kedvenc sportod? ; Csapatjátékok leginkább ; 1 ; Az egyszemélyes sportok híve vagyok ; 2 ; Sport? Mi is az? ; 3
+Mi az, amit a legszívesebben megennél most? ; Egy jó steak vagy oldalas, ha lehet hasábbal és egy kis salátával. ; 2 ; Egy lazacfilé salátával és dresszinggel jólesne most. ; 1 ; Elég lesz egy csokitorta is, köszönöm! ; 3
+Milyen táplálékkiegészítőket szedsz rendszeresen? ; Az meg mi? ; 3 ; Vitaminokat, abból is inkább C-, D vitamin. ; 2 ; Pro- és prebiotikumokat, vitaminokat és proteint, ha edzek. ; 1
+Mennyi húst eszel egy héten? ; Legalább 4-5 kg-ot biztosan. Kell az erő. ; 3 ; Általában 2 kg, vagy annál kevesebb. ; 2 ; Nem eszem húst, vegetáriánus vagyok. ; 1
+Próbáltad már a húshelyettesítő termékeket? ; Igen, nekem ízlett. ; 1 ; Nem, minek? Ha húst akarok enni, akkor azt eszem. ; 3 ; Igen, de nem az én világom. ; 2
+Mennyi tejterméket fogyasztasz? ; Minden, ami tej, sajt, az jöhet. Bármennyi, bármikor. ; 3 ; Csak akkor, ha megkívánom. Amúgy nem vagyok nagy sajtos. ; 2 ; Nem eszem ilyesmit. Ha igen, az is inkább növényi. ; 1
+Tudod mit jelent a mikrobiom? ; A velünk élő mikróbák, ezek egy része a bélrendszerben található jótékony baktériumok. ; 1 ; A bélben található rossz baktériumok. ; 2 ; Nem tudom mi az, de nem is szeretem ezeket a latin szavas dolgokat. ; 3
+Mennyi vizet iszol egy nap? ; 1,5 L lecsúszik nagy nehezen. ; 2 ; Inkább Cola, Fanta, Hell. Ez számít? ; 3 ; 2-2,5 L napi szinten megvan. ; 1
+Mennyi a képernyőidőd a telefonodon egy hét alatt? ; 50 óra fölött ; 3 ; 25 óra vagy alatta ; 1 ; 50 és 25 óra között ; 2
+Hogy alszol el? ; Lefekvés előtt olvasok egy könyvet vagy beszélgetek a szüleimmel/tesómmal, alváskor sötét a szobám. ; 1 ; Tévézek vagy zenét hallgatok előtte. ; 2 ; Tévére, zenére alszom el és (ha van) éjjeli fénnyel alszom. ; 3
