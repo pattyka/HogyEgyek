@@ -1,2 +1,2 @@
 # Hogy egyél, hogy jól legyél?
-Komoly Description
+Ez a legjobb description
