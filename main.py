@@ -35,7 +35,7 @@ for kerdes in kerdesek:
     elif valasz == "c":
         teljes_pontszam += kerdes.scoreC
     else:
-        print("Invalid choice! No score added.")
+        print(Hiba. Nem kaptál pontokat:(")
 
 
 
