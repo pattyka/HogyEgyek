@@ -35,7 +35,7 @@ for kerdes in kerdesek:
     elif valasz == "c":
         teljes_pontszam += kerdes.scoreC
     else:
-        print(Hiba. Nem kaptál pontokat:(")
+        print("Hiba. Nem kaptál pontokat:(")
 
 
 
