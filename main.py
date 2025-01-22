@@ -26,6 +26,10 @@ for kerdes in kerdesek:
     print(f"c) {kerdes.answerC}")
 
     valasz = input("Válassz eggyet (a, b, c): ").strip().lower()
+    while valasz not in("a", "b", "c"):
+        print("Hiba kérem valasszon ujra, a, b, c")
+        valasz = input("Válassz eggyet (a, b, c): ").strip().lower()
+            
 
 
     if valasz == "a":
