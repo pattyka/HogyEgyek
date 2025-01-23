@@ -27,7 +27,7 @@ for kerdes in kerdesek:
 
     valasz = input("Válassz eggyet (a, b, c): ").strip().lower()
     while valasz not in("a", "b", "c"):
-        print("Hiba kérem valasszon ujra, a, b, c")
+        print("Hiba kérem valassz ujra, a, b, c")
         valasz = input("Válassz eggyet (a, b, c): ").strip().lower()
             
 
